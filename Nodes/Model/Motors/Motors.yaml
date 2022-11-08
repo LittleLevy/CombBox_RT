@@ -1,0 +1,26 @@
+Name: Motors
+Id: g=da46eedebaacb24bb545b27b554c4184
+Type: FolderType
+Children:
+- Name: motor1
+  Id: g=f712dcb80eba1e7503a8abc6d56cf30a
+  Type: BaseObjectType
+  Children:
+  - Name: Variable1
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "bbb"
+- Name: motor2
+  Type: BaseObjectType
+  Children:
+  - Name: Variable1
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "ccc"
+- Name: motor3
+  Type: BaseObjectType
+  Children:
+  - Name: Variable1
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "aaa"
